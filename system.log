@@ -1,0 +1,18 @@
+Mon May  5 14:26:09 CDT 2025: CPU load:
+ 14:26:09 up 5 min,  1 user,  load average: 0.01, 0.10, 0.06
+Mon May  5 14:27:09 CDT 2025: CPU load:
+ 14:27:09 up 6 min,  1 user,  load average: 0.00, 0.08, 0.05
+========== 2025-05-05 14:29:00 ==========
+ptime:
+ 14:29:00 up 8 min,  1 user,  load average: 0.00, 0.05, 0.04
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       809Mi        12Gi       3.5Mi       1.9Gi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+isk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdc       1007G  2.3G  954G   1% /
+===============================================
+
